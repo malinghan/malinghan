@@ -1,7 +1,7 @@
 # Hello friends 🖐️
 Welcome to my page!
 I'm malinghan, Backend developer from  Jingzhou, China, currently living in  Shenzhen, China.
-
+I graduated from Shandong University  with a bachelor’s degree
 <br/>
 
 
