@@ -1,6 +1,6 @@
 # Hello friends 🖐️
 Welcome to my page!
-I'm malinghan, Fullstack developer from  jingzhou, Hubei, China, currently living in  Shenzhen, China.
+I'm malinghan, Backend developer from  jingzhou, Hubei, China, currently living in  Shenzhen, China.
 
 # 📖 Table of Contents
 
