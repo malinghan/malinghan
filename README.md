@@ -1,6 +1,6 @@
 # Hello friends 🖐️
-
-how are you If you want to make the look of your github profile more beautiful, you have come to the right place
+Welcome to my page!
+I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stockholm, Sweden.
 
 # 📖 Table of Contents
 
@@ -13,3 +13,6 @@ how are you If you want to make the look of your github profile more beautiful, 
   - [⚙️ Profile Generator ](#%EF%B8%8F-profile-generator-)
   - [😉 Emojis ](#-emojis)
 - [Give A Star ⭐](#give-a-star-)
+
+# 学习证书
+https://gitcode.com/rzashakeri/beautify-github-profile/blob/master/readme.md
