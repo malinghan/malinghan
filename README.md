@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello friends 🖐️
 
-<!--
-**malinghan/malinghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+how are you If you want to make the look of your github profile more beautiful, you have come to the right place
 
-Here are some ideas to get you started:
+# 📖 Table of Contents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [📌 The first step : Set up the GitHub Repository](#-the-first-step--set-up-the-github-repository)
+- [💡 Where do we get ideas ?](#-where-do-we-get-ideas-)
+- [🚩 What do we do after seeing these profiles ?](#-what-do-we-do-after-seeing-these-profiles-)
+  - [🧩 Badges ](#-badges-)
+  - [🛠️ Widgets ](#%EF%B8%8F-widgets-)
+  - [✅ Icons ](#-icons-)
+  - [⚙️ Profile Generator ](#%EF%B8%8F-profile-generator-)
+  - [😉 Emojis ](#-emojis)
+- [Give A Star ⭐](#give-a-star-)
