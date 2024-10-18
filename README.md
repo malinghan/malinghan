@@ -8,9 +8,9 @@ I'm graduated from Shandong University  with a bachelor’s degree, major in Mat
 |    project    |    what it is    |  Finished   |                                                        Position                                                           |
 | :------------: | :------------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------: |
 |   **sorpc**   | custom rpc |    done🥇     |                  <a href="https://github.com/malinghan/sorpc">sorpc</a>                  |
-| soregistry |   custom registry   |    done 🥇      | <a href="https://github.com/malinghan/sorpc">sorpc</a> |
-|   soconfig   | custom config |    Todo ❌    | <a href="https://github.com/malinghan/soconfig">sorpc</a> |
-| sogateway |   custom gateway   | Todo ❌ | <a href="https://github.com/malinghan/sogateway">sorpc</a> |
+| soregistry |   custom registry   |    done 🥇      | <a href="https://github.com/malinghan/soregistry">soregistry</a> |
+|   soconfig   | custom config |    Todo ❌    | <a href="https://github.com/malinghan/soconfig">soconfig</a> |
+| sogateway |   custom gateway   | Todo ❌ | <a href="https://github.com/malinghan/sogateway">sogateway</a> |
 |   socache   |     custom cache     |   Todo ❌  | <a href="https://github.com/malinghan/socache">socache</a> |
 |     sosharding     |   custom sharding   | Todo ❌ |  <a href="https://github.com/malinghan/sosharding">sosharding</a>  |
 |  somq  |     custom mq     |   Todo ❌  |          <a href="https://github.com/malinghan/somq">somq</a>          |
