@@ -22,7 +22,7 @@ I graduated from Shandong University with a bachelor's degree, majoring in Mathe
 #### Algorithm Practice Records
 |    project    |    what it is    |  Finished   |                                                        Position                                                           |
 | :------------: | :------------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------: |
-|   demo  | 2023 record |    doing     |                  <a href="https://github.com/malinghan/demo">demo</a>                  |
+|   demo  | 2023 leetcode  |    doing     |                  <a href="https://github.com/malinghan/demo">demo</a>                  |
 | huawei-od |   2024 huawei-od  |    doing      | <a href="https://github.com/malinghan/huawei-od">huawei-od</a> |
 
 #### My Study certificate
