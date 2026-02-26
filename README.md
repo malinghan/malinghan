@@ -10,11 +10,11 @@ I graduated from Shandong University with a bachelor's degree, majoring in Mathe
 | :------------: | :------------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------: |
 |   **marpc**   | custom rpc |    done🥇     |                  <a href="https://github.com/malinghan/marpc">marpc</a>                  |
 | maregistry |   custom registry   |    done 🥇      | <a href="https://github.com/malinghan/maregistry">maregistry</a> |
-|   maconfig   | custom config |    Todo ❌    | <a href="https://github.com/malinghan/maconfig">maconfig</a> |
-| magateway |   custom gateway   | Todo ❌ | <a href="https://github.com/malinghan/magateway">magateway</a> |
-|   macache   |     custom cache     |   Todo ❌  | <a href="https://github.com/malinghan/macache">macache</a> |
-|     masharding     |   custom sharding   | Todo ❌ |  <a href="https://github.com/malinghan/masharding">masharding</a>  |
-|  mamq  |     custom mq     |   Todo ❌  |          <a href="https://github.com/malinghan/mamq">mamq</a>          |
+|   maconfig   | custom config |    done 🥇   | <a href="https://github.com/malinghan/maconfig">maconfig</a> |
+| magateway |   custom gateway   | done 🥇  | <a href="https://github.com/malinghan/magateway">magateway</a> |
+|   macache   |     custom cache     |   done 🥇  | <a href="https://github.com/malinghan/macache">macache</a> |
+|     masharding     |   custom sharding   | done 🥇  |  <a href="https://github.com/malinghan/masharding">masharding</a>  |
+|  mamq  |     custom mq     |   done 🥇  |          <a href="https://github.com/malinghan/mamq">mamq</a>          |
 |                |                      |          |                                                              |
 |                |                      |          |                                                              |
 
