@@ -8,14 +8,13 @@ I graduated from Shandong University with a bachelor's degree, majoring in Mathe
 #### My Open source projects
 |    project    |    what it is    |  Finished   |                                                        Position                                                           |
 | :------------: | :------------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------: |
-|   **sorpc**   | custom rpc |    done🥇     |                  <a href="https://github.com/malinghan/sorpc">sorpc</a>                  |
-| soregistry |   custom registry   |    done 🥇      | <a href="https://github.com/malinghan/soregistry">soregistry</a> |
-|   soconfig   | custom config |    Todo ❌    | <a href="https://github.com/malinghan/soconfig">soconfig</a> |
-| sogateway |   custom gateway   | Todo ❌ | <a href="https://github.com/malinghan/sogateway">sogateway</a> |
-|   socache   |     custom cache     |   Todo ❌  | <a href="https://github.com/malinghan/socache">socache</a> |
-|     sosharding     |   custom sharding   | Todo ❌ |  <a href="https://github.com/malinghan/sosharding">sosharding</a>  |
-|  somq  |     custom mq     |   Todo ❌  |          <a href="https://github.com/malinghan/somq">somq</a>          |
-| sostatemachine | custom state machine |  Todo ❌  |    <a href="https://github.com/malinghan/sostatemachine">sostatemachine</a>    |
+|   **marpc**   | custom rpc |    done🥇     |                  <a href="https://github.com/malinghan/marpc">marpc</a>                  |
+| maregistry |   custom registry   |    done 🥇      | <a href="https://github.com/malinghan/maregistry">maregistry</a> |
+|   maconfig   | custom config |    Todo ❌    | <a href="https://github.com/malinghan/maconfig">maconfig</a> |
+| magateway |   custom gateway   | Todo ❌ | <a href="https://github.com/malinghan/magateway">magateway</a> |
+|   macache   |     custom cache     |   Todo ❌  | <a href="https://github.com/malinghan/macache">macache</a> |
+|     masharding     |   custom sharding   | Todo ❌ |  <a href="https://github.com/malinghan/masharding">masharding</a>  |
+|  mamq  |     custom mq     |   Todo ❌  |          <a href="https://github.com/malinghan/mamq">mamq</a>          |
 |                |                      |          |                                                              |
 |                |                      |          |                                                              |
 
