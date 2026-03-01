@@ -6,23 +6,15 @@ I graduated from Shandong University with a bachelor's degree, majoring in Mathe
 
 
 #### My Open source projects
-|    project    |    what it is    |  Finished   |                                                        Position                                                           |
-| :------------: | :------------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------: |
-|   **marpc**   | custom rpc |    done🥇     |                  <a href="https://github.com/malinghan/marpc">marpc</a>                  |
-| maregistry |   custom registry   |    done 🥇      | <a href="https://github.com/malinghan/maregistry">maregistry</a> |
-|   maconfig   | custom config |    done 🥇   | <a href="https://github.com/malinghan/maconfig">maconfig</a> |
-| magateway |   custom gateway   | done 🥇  | <a href="https://github.com/malinghan/magateway">magateway</a> |
-|   macache   |     custom cache     |   done 🥇  | <a href="https://github.com/malinghan/macache">macache</a> |
-|     masharding     |   custom sharding   | done 🥇  |  <a href="https://github.com/malinghan/masharding">masharding</a>  |
-|  mamq  |     custom mq     |   done 🥇  |          <a href="https://github.com/malinghan/mamq">mamq</a>          |
-|                |                      |          |                                                              |
-|                |                      |          |                                                              |
-
-#### Algorithm Practice Records
-|    project    |    what it is    |  Finished   |                                                        Position                                                           |
-| :------------: | :------------: | :-----------: | :------------------------------------------------------------------------------------------------------------------------------: |
-|   demo  | 2023 leetcode  |    doing     |                  <a href="https://github.com/malinghan/demo">demo</a>                  |
-| huawei-od |   2024 huawei-od  |    doing      | <a href="https://github.com/malinghan/huawei-od">huawei-od</a> |
+|    project    |    what it is    |                                                        Position                                                           |
+| :------------: | :------------: | :------------------------------------------------------------------------------------------------------------------------------: |
+|   **marpc**   | custom rpc |                  <a href="https://github.com/malinghan/marpc">marpc</a>                  |
+| maregistry |   custom registry   | <a href="https://github.com/malinghan/maregistry">maregistry</a> |
+|   maconfig   | custom config | <a href="https://github.com/malinghan/maconfig">maconfig</a> |
+| magateway |   custom gateway   | <a href="https://github.com/malinghan/magateway">magateway</a> |
+|   macache   |     custom cache     | <a href="https://github.com/malinghan/macache">macache</a> |
+|     masharding     |   custom sharding   |  <a href="https://github.com/malinghan/masharding">masharding</a>  |
+|  mamq  |     custom mq     |          <a href="https://github.com/malinghan/mamq">mamq</a>          |
 
 #### My Study certificate
 
