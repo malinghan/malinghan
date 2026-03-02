@@ -1,23 +1,58 @@
-# Hello friends 🖐️
-Welcome to my page!<br/>
+<h1 align="center">Hi there, I'm Malinghan 👋</h1>
 
-I'm Malinghan, a Backend developer from Jingzhou, China, currently living in Shenzhen, China.<br/>
-I graduated from Shandong University with a bachelor's degree, majoring in Mathematics. <br/>
+<p align="center">
+  <em>Backend Developer · Shenzhen, China</em>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=malinghan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-#### My Open source projects
-|    project    |    what it is    |                                                        Position                                                           |
-| :------------: | :------------: | :------------------------------------------------------------------------------------------------------------------------------: |
-|   **marpc**   | custom rpc |                  <a href="https://github.com/malinghan/marpc">marpc</a>                  |
-| maregistry |   custom registry   | <a href="https://github.com/malinghan/maregistry">maregistry</a> |
-|   maconfig   | custom config | <a href="https://github.com/malinghan/maconfig">maconfig</a> |
-| magateway |   custom gateway   | <a href="https://github.com/malinghan/magateway">magateway</a> |
-|   macache   |     custom cache     | <a href="https://github.com/malinghan/macache">macache</a> |
-|     masharding     |   custom sharding   |  <a href="https://github.com/malinghan/masharding">masharding</a>  |
-|  mamq  |     custom mq     |          <a href="https://github.com/malinghan/mamq">mamq</a>          |
+---
 
-#### My Study certificate
+🎓 B.S. in Mathematics, Shandong University
 
-#### My latest posts
+🏠 Originally from Jingzhou, currently based in Shenzhen, China
 
-#### Where to find me
+💻 Passionate about building distributed systems and backend infrastructure from scratch
+
+---
+
+### 🛠️ Open Source Projects
+
+| Project | Description | Link |
+| :---: | :--- | :---: |
+| **marpc** | Custom RPC framework | [marpc](https://github.com/malinghan/marpc) |
+| **maregistry** | Custom service registry | [maregistry](https://github.com/malinghan/maregistry) |
+| **maconfig** | Custom config center | [maconfig](https://github.com/malinghan/maconfig) |
+| **magateway** | Custom API gateway | [magateway](https://github.com/malinghan/magateway) |
+| **macache** | Custom cache framework | [macache](https://github.com/malinghan/macache) |
+| **masharding** | Custom database sharding | [masharding](https://github.com/malinghan/masharding) |
+| **mamq** | Custom message queue | [mamq](https://github.com/malinghan/mamq) |
+
+---
+
+### 📝 Algorithm Practice
+
+| Project | Description | Link |
+| :---: | :--- | :---: |
+| **demo** | LeetCode 2023 | [demo](https://github.com/malinghan/demo) |
+| **huawei-od** | Huawei OD 2024 | [huawei-od](https://github.com/malinghan/huawei-od) |
+
+---
+
+### 🏅 Study Certificates
+
+*Coming soon*
+
+---
+
+### 📮 Latest Posts
+
+*Coming soon*
+
+---
+
+### 📬 Where to Find Me
+
+*Coming soon*
