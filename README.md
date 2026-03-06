@@ -18,7 +18,15 @@
 
 ---
 
-### 🛠️ Open Source Projects
+### 🚀 Production Projects
+
+| Project | Description | Link |
+| :---: | :--- | :---: |
+| **MarketPulse** | Production-grade financial data aggregation platform with microservices architecture | [marketpulse](https://github.com/malinghan/marketpulse) |
+
+---
+
+### 🛠️ Open Source Infrastructure
 
 | Project | Description | Link |
 | :---: | :--- | :---: |
