@@ -23,6 +23,7 @@
 | Project | Description | Link |
 | :---: | :--- | :---: |
 | **MarketPulse** | Production-grade financial data aggregation platform with microservices architecture | [marketpulse](https://github.com/malinghan/marketpulse) |
+| **pet-helper** | Pet care assistant application | [pet-helper](https://github.com/malinghan/pet-helper) |
 
 ---
 
