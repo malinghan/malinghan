@@ -52,7 +52,7 @@
 
 ### 🏅 Study Certificates
 
-*Coming soon*
+- http://cx.miitec.cn/certificateSearch?type=1&serialnum=IITCPXDZJD25000204
 
 ---
 
